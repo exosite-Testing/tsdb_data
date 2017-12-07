@@ -1,0 +1,4 @@
+timestamp|ts,temperture|m|int,light|m|int,pressure|m|int,sn|t,device_rid|t,version|t,config_name|t
+1483020000000000,747,719,740,00:50:C2:9B:AB:25_1,0cde4349491e59a719cbcdb4ffe6e98cfd8874cc,1.1.1,19XRV_PIC3_NON_VPF_a
+1483019100000000,703,685,742,00:50:C2:9B:AB:25_1,0cde4349491e59a719cbcdb4ffe6e98cfd8874cc,1.1.1,19XRV_PIC3_NON_VPF_a
+1483018200000000,629,641,746,00:50:C2:9B:AB:25_1,0cde4349491e59a719cbcdb4ffe6e98cfd8874cc,1.1.1,19XRV_PIC3_NON_VPF_a
